@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="home_button_options">
+        <item>Switch between Home and All apps categories</item>
+        <item>Switch between Home and History categories</item>
+        <item>Don\'t switch</item>
+    </string-array>
+	<string-array name="search_entries">
+        <item>User-preferred</item>
+        <item>DuckDuckGo</item>
+        <item>Google</item>
+    </string-array>
+	<string-array name="appShortcutTypes">
+        <item>Text</item>
+        <item>Icon</item>
+        <item>Icon and text</item>
+    </string-array>
+	<string-array name="themeTypes">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="orientationTypes">
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>System</item>
+        <item>Always auto-rotate</item>
+    </string-array>
+    <string-array name="fontStyleTypes">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Bold and italic</item>
+    </string-array>
+</resources>
